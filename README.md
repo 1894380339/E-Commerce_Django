@@ -2,7 +2,7 @@
 Description:
 
 ``
-Django E-commerce is an e-commerce platform built with Django and Django REST Framework. It provides features such as user authentication, product management, shopping cart, order processing, reporting.
+Django E-commerce is an e-commerce project built with Django and Django REST Framework. It provides features such as user authentication, product management, shopping cart, order processing, reporting.
 ``
                
 Technologies:
