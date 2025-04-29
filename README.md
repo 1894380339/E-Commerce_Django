@@ -15,11 +15,11 @@ Swagger(drf-yasg): For API documentation.
 
 PostgreSQL: The primary database.
 
-Celery & Redis: For handling asynchronous tasks.
+Celery & Redis: For handling asynchronous tasks, Cronj.
 
 Django Debug Toolbar: For debugging and performance monitoring.
 
-Pre-commit Hooks: To enforce code quality before commits.
+Pre-commit: To enforce code quality before commits.
 
 Google Drive Storage: For file storage.
 
